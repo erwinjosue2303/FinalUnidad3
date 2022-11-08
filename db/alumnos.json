@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "636a06778862949b33fcdd8d"
+  },
+  "nombre": "Erwin",
+  "carnet": "202008005",
+  "email": "erwinjosue@umes.edu.gt",
+  "entradahora": "8:15 am",
+  "salidahora": "12:15 pm",
+  "idalumno": "la7wcbnp",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636a1d0d9bf6dc40035da96f"
+  },
+  "nombre": "Jazmin",
+  "carnet": "202578451",
+  "email": "jasmin12@umes.edu.gt",
+  "entradahora": "7:30 am ",
+  "salidahora": "1:00 pm",
+  "idalumno": "la7zs8y4",
+  "__v": 0
+}]
